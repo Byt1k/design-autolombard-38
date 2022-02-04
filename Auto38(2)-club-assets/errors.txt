@@ -1,0 +1,7 @@
+[2020-2-21 17:46:15] layer "+7 (495) 154-34-49": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-2-21 17:46:15] layer "+7 (495) 480-06-85": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-2-21 17:46:15] layer "auto@38.ru": Unsupported extension: ru
+[2020-2-21 17:46:15] layer "+7 (495) 480-06-85": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-2-21 17:46:15] layer "auto@38.ru +7 (925) 740 87 00 +7 (925) 740 87 00 auto38_bot": Unsupported extension: ru
+[2020-2-21 17:46:15] layer "© 2020 Финансовая группа «38.ru»": Expected end of input but "\xBB" found.
+[2020-2-21 17:46:15] layer "+7 (495) 290-94-43": Expected Either a default asset specification or a layer asset specification but "+" found.
